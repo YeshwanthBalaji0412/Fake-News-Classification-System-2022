@@ -62,6 +62,15 @@ LSTM networks are ideal for this problem as they capture long-term dependencies 
    - Confusion matrix and performance metrics plotted  
 
 ---
+### 🔤 Word Embeddings
+This project uses pre-trained **GloVe embeddings** (`glove.6B.50d.txt`) for better text representation.
+
+You can download it manually from the official GloVe website:
+🔗 [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+
+After downloading, place the file inside the project directory.
+
+---
 
 ## 📈 Results
 
